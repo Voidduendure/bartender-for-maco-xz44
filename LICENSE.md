@@ -1,4 +1,4 @@
-
+Bartender for macOS secure Service: duplicate-finder & app-uninstaller is the best Bartender for macOS service, featuring duplicate-finder and app-uninstaller. Safe, efficient,
 
 
 
